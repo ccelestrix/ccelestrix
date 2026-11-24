@@ -1,6 +1,6 @@
 <img src="./ar2.gif" width="100%">
 
-<img align="right" src="./cat.gif" width="150">
+<img align="right" src="./ar3.gif" width="150">
 
 ### hi! its me celestrix
 
