@@ -21,3 +21,15 @@ modder at [shatter](https://shatterfn.com)
   <img src="./juice.jpg" width="65" height="65" title="juice wrld">
   <img src="./xxx.jpg" width="65" height="65" title="xxxtentacion">
 </p>
+
+---
+
+### github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ccelestrix&show_icons=true&theme=dark&hide_border=true" width="512">
+
+---
+
+### discord activity
+
+<img src="https://dsc-readme.tsuni.dev/api/user/1451665607664865323?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512&font=tempo&effect=gradient&nameColor1=facc15&nameColor2=f97316" width="512">
