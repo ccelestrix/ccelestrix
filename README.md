@@ -1,4 +1,4 @@
-<img src="./banner.gif" width="100%">
+<img src="./ar2.gif" width="100%">
 
 <img align="right" src="./cat.gif" width="150">
 
